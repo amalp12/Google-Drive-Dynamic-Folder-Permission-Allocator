@@ -14,3 +14,6 @@ CSV_PATH = 'data.csv' # path to csv file
 CSV File :
 Create a csv file with columns name, roll_no and email  without any spelling alterations
 Take the sample csv file given in the repo as reference
+
+
+Install requirements.txt and run Main.py
