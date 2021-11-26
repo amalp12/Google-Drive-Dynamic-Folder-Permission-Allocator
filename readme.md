@@ -4,7 +4,7 @@ An Application to create folders for specific emails and share each folder with 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required dependancies using the following command.
 
 ```bash
 pip install -r requirements.txt
