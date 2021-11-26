@@ -23,7 +23,7 @@ pip install -r requirements.txt
 **`CSV_PATH`** = 'data.csv' ( path to csv file )
 
 ## Input File Format
-**`The CSV File`** : Create a csv file with columns name, roll_no and email without any spelling alterations Take the sample csv file given in the repo as reference
+**`The CSV File`** : Create a csv file with columns `name`, `roll_no` and `email` without any spelling alterations Take the sample csv file given in the repo as reference
 
 ## Usage
 
